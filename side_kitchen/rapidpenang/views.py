@@ -6,4 +6,4 @@ rapidpenang_page = Blueprint('rapidpenang', __name__)
 
 @rapidpenang_page.route('/')
 def show():
-	return "hi"
+	return render_template('rapidpenang/index.html')
