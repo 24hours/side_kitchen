@@ -1,2 +1,4 @@
-# side_kitchen
-experiment with web ui
+Side Kitchen
+---
+
+A small project of mine to test various idea. 
